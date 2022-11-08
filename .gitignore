@@ -3,3 +3,5 @@ frontend/public/styles
 
 frontend/@types/*.js.map
 frontend/@types/*.js
+backend/test/rnn/net-example.json
+backend/test/rnn/main.go
